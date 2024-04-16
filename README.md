@@ -2,6 +2,6 @@
 
 ## A circle that changes color when the mouse hovers over it
 
-## See how it looks [here](https://pawelkacprzak.github.io/simple-project/)
+## See how it looks [here](https://pawelkacprzak.github.io/simple-project/){:target="_blank"}
 
 ### Greetings - Paul
